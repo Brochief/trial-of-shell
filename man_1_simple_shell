@@ -1,0 +1,13 @@
+.TH man 1 "03 August 2022" "ALX" "SIMPLE SHELL"
+.SH NAME
+.B Simple Shell
+- a simple command line interpreter
+.SH SYNOPSIS
+.B hsh [command_file [argument ...]]
+.br
+.B hsh [command_name [argument ...]]
+.SH DESCRIPTION
+it's a CLI (command line interface).
+it's a program that takes commands from the keyboard and gives them to the OS to perform.
+Simple Shell is a replica of the Unix shell, it works the same way.
+.SH
